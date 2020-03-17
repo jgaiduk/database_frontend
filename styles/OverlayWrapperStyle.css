@@ -1,0 +1,21 @@
+.imgOverlayWrap {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    transition: transform 150ms ease-in-out;
+}
+
+.imgOverlayWrap img {
+    width: 100%;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.imgOverlayWrap svg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}

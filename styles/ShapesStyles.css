@@ -1,0 +1,26 @@
+svg {
+    fill-opacity: 0.1;
+    stroke-opacity: 0.7;
+    stroke-width: 0.4;
+    stroke-linecap: round;
+}
+
+rect {
+    fill: #e6194b;
+    stroke: #e6194b;
+}
+
+circle {
+    fill: #3221d1;
+    stroke: #3221d1;
+}
+
+polygon {
+    fill: #21b521;
+    stroke: #21b521;
+}
+
+image {
+    opacity: 0.7;
+    background-color: orangered;
+}
